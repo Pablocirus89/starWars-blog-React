@@ -12,8 +12,8 @@
 		"deploy": "node deploy-to-github.js"
 	},
 	"author": {
-		"name": "Alejandro Sanchez",
-		"url": "http://alesanchezr.com/"
+		"name": "Pablo Cordero",
+		"url": "https://github.com/Pablocirus89"
 	},
 	"contributors": [
 		{
