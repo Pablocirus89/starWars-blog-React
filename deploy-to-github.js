@@ -15,7 +15,7 @@ try {
   if (changes) {
     // Si hay cambios, hacer commit y push
     execSync('git commit -m "Deploying project"', { stdio: "inherit" });
-    execSync("git push origin main", { stdio: "inherit" });
+    execSync("git push origin master", { stdio: "inherit" });
     console.log("Deployment successful!");
   } else {
     console.log("No changes to deploy.");
